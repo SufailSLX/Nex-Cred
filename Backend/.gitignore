@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+
+# environment variables
+.env
+
+# logs
+logs/
+*.log
+npm-debug.log*
+
+# uploads
+uploads/
+
+# temporary files
+tmp/
+temp/
+
+# coverage
+coverage/
+
+# macOS
+.DS_Store
+
+# editor files
+.vscode/
+.idea/
+
+# build
+dist/
+
+# lock files (optional)
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
